@@ -1,0 +1,7 @@
+Question:Count the characters present in each word
+Algorithm:
+Step 1:Take the String from the user and store it in a variable.
+Step 2:Call  the method from the main method
+Step 3:convert the String into String array
+Step 4:calculate each word length by the length().
+Step 5:calculate all the lengths of the words present in the sentence by the for loop.

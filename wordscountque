@@ -1,0 +1,8 @@
+Question:Calculate the words present inside the string
+Algorithm:
+step 1: Taking the user input as String type
+step 2: Store the Sentence in a variable
+Step 3: pass the String variable into the method
+Step 4: Divide the String with split method
+Step 5: Calculate the count of words present in string with arr.length
+Step 6: By using for loop for the array print each word in the array
